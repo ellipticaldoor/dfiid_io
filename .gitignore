@@ -1,0 +1,7 @@
+node_modules/
+plugins/
+platforms/android/.gradle/
+platforms/android/.idea/
+.DS_Store
+*.swp
+Thumbs.db
