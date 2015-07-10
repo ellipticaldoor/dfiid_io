@@ -161,8 +161,8 @@ public class SystemWebViewEngine implements CordovaWebViewEngine {
         }
 
         //We don't save any form data in the application
-        settings.setSaveFormData(false);
-        settings.setSavePassword(false);
+        settings.setSaveFormData(true);
+        settings.setSavePassword(true);
         
         // Jellybean rightfully tried to lock this down. Too bad they didn't give us a whitelist
         // while we do this

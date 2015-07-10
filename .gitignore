@@ -5,3 +5,6 @@ platforms/android/.idea/
 .DS_Store
 *.swp
 Thumbs.db
+platforms/android/CordovaLib/build/
+android-release.apk
+manifest-merger-release-report.txt
